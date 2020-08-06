@@ -1,3 +1,9 @@
+rdiff-backup (2.0.6.dev6+g385ebe3) UNRELEASED; urgency=medium
+
+  * Automatic build
+
+ -- root <root@7d70c9bd7ff9>  Thu, 06 Aug 2020 03:44:38 +0000
+
 rdiff-backup (1.9.0b0) unstable; urgency=medium
 
   * Initial changelog entry for native rdiff-backup packaging.
