@@ -1,5 +1,8 @@
-rdiff-backup (1.9.0b0) unstable; urgency=medium
+rdiff-backup (2.0.5) UNRELEASED; urgency=medium
 
-  * Initial changelog entry for native rdiff-backup packaging.
+  * Alternative build to be used side by side with default Debian rdiff-backup
+    installation.
+  * Based on upstream 2.0.5.
 
- -- Otto Kekäläinen <otto@debian.org>  Fri, 02 Aug 2019 21:01:40 +0100
+ -- Juraj Hrubsa <juraj.hrubsa@kedros.sk>  Mon, 24 Aug 2020 10:22:16 +0000
+
